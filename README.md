@@ -1,1 +1,1 @@
-![alt text](file:///C:/Users/KIREY/Desktop/Снимок1.PNG)
+![alt text](scr/1.png)
