@@ -1,4 +1,4 @@
-<a href='https://hostingkartinok.com/show-image.php?id=1739acf6e938953fcc08ddf2ad2c8293' title='image hosting'><img src='https://s8.hostingkartinok.com/uploads/thumbs/2019/01/1739acf6e938953fcc08ddf2ad2c8293.png' alt='Yes' /></a>
+<a href='https://hostingkartinok.com/show-image.php?id=1739acf6e938953fcc08ddf2ad2c8293' title='фотосайт'><img style="width:100%" src='https://s8.hostingkartinok.com/uploads/images/2019/01/1739acf6e938953fcc08ddf2ad2c8293.gif' alt='Yes'  /></a>
 
 Main menu
 ---------
