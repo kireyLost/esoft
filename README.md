@@ -1,1 +1,1 @@
-![alt text](scr/1.png)
+![alt text](https://hkar.ru/X1Jy)
